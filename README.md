@@ -18,7 +18,7 @@ Expereinced Frontend web developer from India
 <!--  📫  Know more about me <a href="https://github.com/Vicky5404">Portfolio</a><br><br> -->
  😄 All of my projects are available at
 <a href="https://github.com/Vicky5404">My Github Repositories</a><br><br>
- 💬 Ask me about HTML, CSS, React , JavaScript , angular <br><br>
+ 💬 Ask me about HTML, CSS, React , JavaScript , Angular <br><br>
  ⚡ How to reach me **vikrampatter25@gmail.com**
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📱 Connect With Me </h2>
