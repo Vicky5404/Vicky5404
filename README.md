@@ -4,15 +4,15 @@ Hi 👋, I am Vikram Patter.
 </h2>
 <hr>
 <h2 align="center">
-Expereinced Frontend web developer from India
+Expereinced Full Stack Web Developer from India
 </h2>
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Vikram+Patter.;I+am+a+Frontend+Web+developer.;Interested+with+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Vikram+Patter.;I+am+a+Full+Stack+developer.;Interested+with+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a>
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div>
 <h2 align="center">💫  About Me </h2>
- 🔭 I’m currently working in upscaller as a frontend developer <br><br>
+ 🔭 I’m currently working in upscaller as a Senior Software Engineer <br><br>
  🌱 I’m currently learning Backend.<br><br>
  <!-- 👯 I’m looking to collaborate on ...<br><br> -->
 <!--  📫  Know more about me <a href="https://github.com/Vicky5404">Portfolio</a><br><br> -->
@@ -52,11 +52,11 @@ Expereinced Frontend web developer from India
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
 </div>
  <br/>
-<!--   <div align="center"><h3 align="center">Backend</h3> 
+  <div align="center"><h3 align="center">Backend</h3> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
- </div> -->
+ </div>
  <div align="center"><h3 align="center">Tools</h3> 
    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
